@@ -1,0 +1,9 @@
+matplotlib==3.8.2
+openai==1.3.3
+python-dotenv==1.0.0
+scikit-learn
+sentence-transformers==2.2.2
+transformers
+torch
+faiss-cpu
+spacy
